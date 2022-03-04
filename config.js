@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Ola bê hehe',
     introDesc: 'Rủ bạn đi chơi mà không nghĩ ra được cái gì hay hơn nên phải dùng cái này hehe',
     btnIntro: 'hihi',
-    title: 'Hôm thứ 2 tới này đi chơi zới tui nhaaaa',
+    title: 'Hôm thứ 3 tới này đi chơi zới tui nhaaaa',
     desc: 'Tui xem được có nhiều thứ hay lắm, chỉ đợi bạn đi khám phá cùng thôi huhu ',
     btnYes: 'Có chứ, sao mà từ chối đượcc :3',
     btnNo: 'Không đâu, lười lắm huhu :((',
