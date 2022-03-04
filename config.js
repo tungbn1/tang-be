@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Ola bê hehe',
-    introDesc: `Rủ bạn đi chơi mà không nghĩ ra được cái gì hay hơn nên phải dùng cái này hehe`,
+    introDesc: 'Rủ bạn đi chơi mà không nghĩ ra được cái gì hay hơn nên phải dùng cái này hehe',
     btnIntro: 'hihi',
     title: 'Hôm thứ 2 tới này đi chơi zới tui nhaaaa',
     desc: 'Tui xem được có nhiều thứ hay lắm, chỉ đợi bạn đi khám phá cùng thôi huhu ',
