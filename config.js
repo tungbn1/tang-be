@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Ola bê hehe',
+    introDesc: `Rủ bạn đi chơi mà không nghĩ ra được cái gì hay hơn nên phải dùng cái này hehe`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    title: 'Hôm thứ 2 tới này đi chơi zới tui nhaaaa',
+    desc: 'Tui xem được có nhiều thứ hay lắm, chỉ đợi bạn đi khám phá cùng thôi huhu ',
+    btnYes: 'Có chứ, sao mà từ chối đượcc :3',
+    btnNo: 'Không đâu, lười lắm huhu :((',
+    question:'Đồng ý ròi đúng hong hehe cảm ơn bạn nhìuu',
+    btnReply: 'Gửi cậu :3',
+    reply: 'Cái đồ đáng iu đẹp try nhất vũ trụ',
+    mess: 'Hehe quá khen tui ròi',
+    messDesc: 'Đi được thì bảo tui phi trâu qua đón nhé hehe',
+    btnAccept: 'Oceee lun :3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
